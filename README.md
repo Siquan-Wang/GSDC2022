@@ -5,7 +5,9 @@ The goal of this competition is to compute smartphones location down to the deci
 ## Description
 
 •	Estimated raw smartphone locations with decimeter resolution by Global Navigation Satellite System (GNSS) data to improve the current meter level positioning accuracy and build novel navigation methods
+
 •	Performed accelerated robust weighted least squares (WLS) estimation with Jacobian matrix calculation and integrated the WLS position and velocity estimations Kalman Smoother after outlier detection and carrier smoothing 
+
 •	Achieved average 95% percentile error across all phones as small as 1.77 and ranked 17th among 571 teams on Kaggle
 
 
@@ -17,6 +19,7 @@ The goal of this competition is to compute smartphones location down to the deci
 
 ## Authors
 Siquan Wang
+
 sw3442@cumc.columbia.edu
 
 ## Version History
