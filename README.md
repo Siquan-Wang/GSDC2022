@@ -34,3 +34,8 @@ sw3442@cumc.columbia.edu
 
 N/A
 
+
+## Acknowledgments
+
+competition website:
+* https://www.kaggle.com/competitions/smartphone-decimeter-2022
