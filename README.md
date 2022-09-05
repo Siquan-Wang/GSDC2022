@@ -18,7 +18,7 @@ The goal of this competition is to compute smartphones location down to the deci
 * Kaggle Notebook
 
 ## Authors
-Siquan Wang
+Siquan Wang (Columbia University)
 
 sw3442@cumc.columbia.edu
 
